@@ -7,13 +7,7 @@ const Main = () => {
     <div class="container">
       <center>
         <img src={logo} alt="CircuLit Logo" className="logo" />
-        <h1>
-          Welcome to CircuLit! Our{" "}
-          <a href={{ Main }} rel="noreferrer">
-            website
-          </a>{" "}
-          is under construction.
-        </h1>
+        <h1>Welcome to CircuLit! Our website is under construction.</h1>
         <h2>
           You can check out our products on{" "}
           <a
