@@ -16,7 +16,7 @@ const Main = () => {
           .
         </h2>
         <h2>Wait for our new product Matchify! </h2>
-        <h3>It will revolutionize your job application process</h3>
+        <h3>It will revolutionize your job application process!</h3>
       </center>
     </div>
   );
